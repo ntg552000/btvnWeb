@@ -16,14 +16,14 @@
     </script>
   
     <!-- load CSS -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">  <!-- Google web font "Open Sans" -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">                                      <!-- https://getbootstrap.com/ -->
-    <link rel="stylesheet" href="css/fontawesome-all.min.css">                                <!-- Font awesome -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400"> 
+    <link rel="stylesheet" href="css/bootstrap.min.css">                                 
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">                              
     <link rel="stylesheet" href="slick/slick.css">
     <link rel="stylesheet" href="slick/slick-theme.css">
     <link rel="stylesheet" href="css/templatemo-style.css">
    
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="index.css"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   </head>
@@ -36,13 +36,13 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto mx-auto">
           <li class="nav-item mx-auto " style="width: 100px;">
-            <a class="nav-link font-weight-bold" href="/" >Home </a>
+            <a class="nav-link font-weight-bold" href="/btvnWeb/  " >Home </a>
           </li>
           <li class="nav-item mx-auto " style="width: 100px;">
-            <a class="nav-link font-weight-bold" href="/contact" >Contact</a>
+            <a class="nav-link font-weight-bold" href="/btvnWeb/contact" >Contact</a>
           </li>
           <li class="nav-item mx-auto" style="width: 100px;">
-            <a class="nav-link font-weight-bold" href="../templatemo_519_beauty/index.html" >Blog</a>
+            <a class="nav-link font-weight-bold" href="/btvnWeb/templatemo_519_beauty/index.html" >Blog</a>
           </li>
         </ul>
       </div>
